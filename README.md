@@ -1,4 +1,4 @@
-[About me](https://www.taoluo.net)
+Please visit [taoluo.net](https://www.taoluo.net) for more information about me. 
 <!--
 **taoluo/taoluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
