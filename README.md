@@ -1,4 +1,4 @@
-I am a CS Ph.D. candidate at the University of Pennsylvania (defending 2026). I build agentic RL post-training, and inference systems for LLMs. 
+I am a CS Ph.D. candidate at the University of Pennsylvania (defending 2026). I build AI agent infrastructure across RL post-training, LLM inference, and retrieval systems.
 
 **I am seeking full-time industry roles starting in 2026.**
 
